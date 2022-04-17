@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Draass
-- 👀 I’m interested in game development with Unity
-- 🌱 I’m currently learning Unity and c# basics
+- 👋 Hi, I’m @Draass, 21 years old guy from St.Petersburg
+- 👀 I’m interested in game development using Unity and C#
+- 🌱 I’m currently learning Unity and c# basics. My first big goal is to make an Unreal-Quake-like adrenaline arena-shooter game.
 - 📫 How to reach me: @daimonet in Telegram, draas.games@gmail.com - e-mail
 
 <!---
