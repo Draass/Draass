@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Draass
-- 👀 I’m interested in game development using Unity and C#
-- 🌱 I’m currently fixing my description
+- 👀 I’m ф a professional Unity C# developer
 - 📫 How to reach me: @daimonet in Telegram, draas.games@gmail.com - e-mail
 
 <!---
